@@ -36,16 +36,14 @@
 ---
 ###### 体验码如下：
 
-![体验码](https://666f-forguo-0979a1-1251886253.tcb.qcloud.la/static/imgs/wedding.png)
+![体验码](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/marry.jpg)
 
 ---
 ###  github地址
 
-github：https://github.com/forguos/wedding
+github：https://github.com/zhangliwen1101/wedding
 
-个人博客：https://blog.csdn.net/WEIGUO19951107
-
-个人站点：https://f2e.forguo.com
+个人博客：https://blog.csdn.net/lwzhang1101
 
 ---
 
@@ -64,3 +62,21 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+## 打赏
+码砖不易，如果您需要，随意打赏，从零开始搭建此项目，直到发版 ->后期运营~
+> * QQ: 383755537
+> * WX: bjawenfd
+
+### 支付宝
+
+<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaoshou.png" width="300" /> <img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaohong.png" width="300" />
+
+### 微信
+
+<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weixinshou.png" width="300" />
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2019-present, developed by jack.zhang
