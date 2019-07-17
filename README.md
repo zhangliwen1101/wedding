@@ -1,7 +1,7 @@
 
 
 ## 婚礼邀请函小程序
-> 基于微信小程序的婚礼邀请函
+> 基于微信小程序的婚礼邀请函，项目可专属定制
 ---
 ### 基础
 *  [小程序文档](https://developers.weixin.qq.com/miniprogram/dev)
