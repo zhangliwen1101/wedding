@@ -8,6 +8,16 @@
 *  [mpvue框架](http://mpvue.com)
 *  [小程序云开发](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 ---
+## 截图
+<div >
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/01.jpg' style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/03.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/04.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
+  <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/07.jpg' style='style='max-width:100px!important;width:100px!important;'>
+</div>
+---
 ### 技术点
 
 小程序使用了云开发和云函数，所以就没有后台的什么事了
