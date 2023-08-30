@@ -10,12 +10,12 @@
 ---
 ## 截图
 <div >
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/01.jpg' style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/03.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/04.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
-    <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
-  <img src='https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/07.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/01.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/03.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/04.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/05.jpg' style='style='max-width:100px!important;width:100px!important;'>
+    <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/06.jpg' style='style='max-width:100px!important;width:100px!important;'>
+  <img src='https://gitee.com/lwzhang1101/images/raw/master/img/marry/07.jpg' style='style='max-width:100px!important;width:100px!important;'>
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ---
 ###### 体验码如下：
 
-![体验码](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/marry.jpg)
+![体验码](https://gitee.com/lwzhang1101/images/raw/master/img/marry/marry.jpg)
 
 ---
 ###  github地址
@@ -81,11 +81,15 @@ npm run build --report
 
 ### 支付宝
 
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaoshou.png" width="300" /> <img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaohong.png" width="300" />
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaoshou.png" width="300" /> <img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaohong.png" width="300" />
 
 ### 微信
 
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weixinshou.png" width="300" />
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/weixinshou.png" width="300" />
+
+### 扫码关注，私信，拿完整源码：
+
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/manongyuanqu.jpg" width="300" />
 
 ## License
 
