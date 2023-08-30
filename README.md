@@ -30,10 +30,8 @@
 然后创建对应的表并赋予对应的权限（学过数据库的很好懂的）
 
 * 1. 云开发入口
-![云开发入口](https://666f-forguo-0979a1-1251886253.tcb.qcloud.la/static/imgs/enter.png)
 
 * 2. 数据库配置
-![云开发](https://666f-forguo-0979a1-1251886253.tcb.qcloud.la/static/imgs/cloud.png)
 
 ---
 
@@ -81,7 +79,7 @@ npm run build --report
 
 ### 支付宝
 
-<img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaoshou.png" width="300" /> <img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaohong.png" width="300" />
+<img src="https://gitee.com/lwzhang1101/images/raw/master/img/zhifubaoshou.png" width="300" /> 
 
 ### 微信
 
